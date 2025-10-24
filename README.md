@@ -1,2 +1,3 @@
-# in-place-init-proposals
-Collection of in-place initialization proposals
+# In-Place Initialization Proposals
+
+This repository contains a collection of problems and solutions for (pinned) in-place initialization.
